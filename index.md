@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Keamanan Jaringan 
+# Keamanan Jaringan Nirkabel
+
+Jaringan Wireless memiliki lebih banyak kelemahan dibandingkan dengan jaringan kabel.Kelemahan jaringan wireless secara umum dapat dibagi menjadi 2 jenis, yakni kelemahan pada konfigurasi dan kelemahan pada jenis enkripsi yang digunakan. Berikut adalah kegiatan atau aktifitas yang dilakukan untuk pengamanan jaringan wireless WEP (Wired Equivalent Privacy), WPA( WI-FI Protected Access), MAC Filtering.
 
 You can use the [editor on GitHub](https://github.com/bayu5169/Bayu-Aditya-S/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
