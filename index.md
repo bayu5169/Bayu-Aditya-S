@@ -24,7 +24,7 @@ MAC Address Filtering merupakan metode filtering untuk membatasi hak akses dari 
 ### WLAN
 Fungsi MAC - Filter MAC filter fungsinya untuk menseleksi komputer mana yang boleh masuk kedalam jaringan berdasarkan MAC Address.
 
-**Bold** and _italic_ and 'code' text
+
 
 
 
