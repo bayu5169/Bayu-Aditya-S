@@ -1,6 +1,8 @@
 ## Keamanan Jaringan 
 # Keamanan Jaringan Nirkabel
 
+![Image](s.jpg)
+
 Jaringan Wireless memiliki lebih banyak kelemahan dibandingkan dengan jaringan kabel.Kelemahan jaringan wireless secara umum dapat dibagi menjadi 2 jenis, yakni kelemahan pada konfigurasi dan kelemahan pada jenis enkripsi yang digunakan. Berikut adalah kegiatan atau aktifitas yang dilakukan untuk pengamanan jaringan wireless WEP (Wired Equivalent Privacy), WPA( WI-FI Protected Access), MAC Filtering.
 
 ### WEP (Wired Equivalent Privacy)
