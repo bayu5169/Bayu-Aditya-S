@@ -20,6 +20,8 @@ MAC Address Filtering merupakan metode filtering untuk membatasi hak akses dari 
 
 ### WLAN
 Fungsi MAC - Filter MAC filter fungsinya untuk menseleksi komputer mana yang boleh masuk kedalam jaringan berdasarkan MAC Address.
+
+
 You can use the [editor on GitHub](https://github.com/bayu5169/Bayu-Aditya-S/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
