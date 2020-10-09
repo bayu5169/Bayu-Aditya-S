@@ -1,5 +1,5 @@
 ## Keamanan Jaringan
-> #### _italic_ Tugas keamanan jaringan nirkabel
+> #### _italic_ and 'Tugas keamanan jaringan nirkabel'
 # Keamanan Jaringan Nirkabel
 
 ![Image](s.jpg)
